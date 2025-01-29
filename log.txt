@@ -1,7 +1,7 @@
-hello this is naveen logged on wednesday 11:43 
 welcome to master branch and track, the file is untracked.
 welcome to master branch ready to commit
 this is another change 
 welcom to master branch ready to push
-
 hello from Master branch
+hello from feature branch
+
